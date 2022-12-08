@@ -1,1 +1,3 @@
+# NOTE
+
 ddos detect file to be used in lunix
